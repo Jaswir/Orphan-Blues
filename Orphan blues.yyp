@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "2b353237-a2c7-4b5c-b8be-fb1bcad41012",
+            "Value": {
+                "id": "a55217fd-68b0-465c-aa8e-2d9d55aaa83d",
+                "resourcePath": "sounds\\snd_amateur5\\snd_amateur5.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "31633431-9486-4753-876e-477a8cdb46d2",
             "Value": {
                 "id": "8ae8af3d-dfd2-4132-bf14-1c5dbd9356d5",
@@ -135,6 +143,14 @@
             }
         },
         {
+            "Key": "59507bd5-fb2f-4667-8456-1fa8fe1249ce",
+            "Value": {
+                "id": "be9d28c4-723e-49f1-8718-20a26ec0eaf6",
+                "resourcePath": "sounds\\snd_amateur4\\snd_amateur4.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "66a78fe2-2e5a-4298-a333-15ee2d4dccb2",
             "Value": {
                 "id": "b83eb1da-8f70-44f0-af27-0ef2ad27e7ec",
@@ -162,7 +178,7 @@
             "Key": "79ebdfda-528a-42b2-86ef-55234c65f632",
             "Value": {
                 "id": "b6cf5541-8986-4850-8f8b-a0f5f1457a45",
-                "resourcePath": "sounds\\snd_amateur\\snd_amateur.yy",
+                "resourcePath": "sounds\\snd_amateur0\\snd_amateur0.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -199,11 +215,35 @@
             }
         },
         {
+            "Key": "b12926bb-39d6-4114-91c3-815572f844d6",
+            "Value": {
+                "id": "c674d837-063b-4144-8f05-d97477b7cac0",
+                "resourcePath": "sounds\\snd_amateur2\\snd_amateur2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "b287bd79-17d3-41ab-98be-895c2236e0e5",
+            "Value": {
+                "id": "e92d9b67-3744-4aa0-8f22-0c41bb75bcac",
+                "resourcePath": "sounds\\snd_amateur6\\snd_amateur6.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "be1d3708-9369-4b87-aa26-0d9a4658e94c",
             "Value": {
                 "id": "5b1116ac-27df-4e89-bb9a-585b03e6ea83",
                 "resourcePath": "views\\be1d3708-9369-4b87-aa26-0d9a4658e94c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cb646cc1-90c9-46c3-8238-0736cba32aff",
+            "Value": {
+                "id": "f39f211a-6929-4eab-a79d-ed5ac796d111",
+                "resourcePath": "sounds\\snd_amateur3\\snd_amateur3.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -220,6 +260,14 @@
                 "id": "c9582e0b-50dc-49f4-9645-a3916ab606e8",
                 "resourcePath": "views\\cecc667c-9a50-4871-9764-a85eb85d822b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d509681f-e564-43da-b18e-166607ba159f",
+            "Value": {
+                "id": "5041394e-2050-4dbb-a229-4fa0a7c10828",
+                "resourcePath": "sounds\\snd_amateur1\\snd_amateur1.yy",
+                "resourceType": "GMSound"
             }
         },
         {
