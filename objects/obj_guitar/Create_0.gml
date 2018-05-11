@@ -1,6 +1,15 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+//Hovering variables
+scaleFactor = 1.2;
+oldScale = image_xscale;
+targetScale = scaleFactor * oldScale;
+scalingDuration = 0.3 * room_speed;
+
+t = 1;
+tDelta = 1 / scalingDuration;
+
 
 randomize();
 
@@ -16,7 +25,6 @@ am_sounds[6] = snd_amateur6;
 
 
 //level2
-
 bb_sounds = [];
 bb_sounds[0] = snd_12bb01;
 bb_sounds[1] = snd_12bb01;

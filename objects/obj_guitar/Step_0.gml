@@ -2,3 +2,12 @@
 // You can write your code in this editor
 
 
+//Lerp scale towards target
+if(t < 1){	
+	newScale = lerp(oldScale, targetScale, t);
+	image_xscale = newScale;
+	image_yscale = image_xscale;
+	t += tDelta;
+	exit;
+}
+
