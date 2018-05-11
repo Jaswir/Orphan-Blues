@@ -12,7 +12,9 @@ sounds[4] = snd_amateur4;
 sounds[5] = snd_amateur5;
 sounds[6] = snd_amateur6;
 
+guitarlevel = 0;
+level_values = [];
+level_values[0] = 1;
+level_values[1] = 5;
 
 
-timer = 0;
-clickTime = 20;
