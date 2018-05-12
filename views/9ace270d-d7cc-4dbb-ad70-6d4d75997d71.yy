@@ -1,0 +1,31 @@
+{
+    "id": "9ace270d-d7cc-4dbb-ad70-6d4d75997d71",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "9ace270d-d7cc-4dbb-ad70-6d4d75997d71",
+    "children": [
+        "3fe39343-5798-443b-8107-eb920ae1eefb",
+        "631dfcf4-780c-4caa-b11d-2abb623194a2",
+        "80b3789e-b916-4b80-840b-0bf727adffc2",
+        "cdbd2c2e-93ae-40a9-bfda-66adcd5bb65e",
+        "629208ad-c1bc-4fb3-90f8-4b7632cc010e",
+        "52f926b1-9063-4251-888c-d2cf6b1a87fc",
+        "11a00516-9256-4504-a099-44b620e85038",
+        "59bfff8f-430a-4e6f-92d7-1a2c0bf094a9",
+        "5596266d-0ed3-4480-9f93-9e8fbb76d6ea",
+        "ff239135-6aca-4b9b-becd-260100e32af9",
+        "25daec27-9b11-40b6-91bf-8ca7383a44c5",
+        "367ebbe5-7b58-4a8d-b997-8de9ee7e1b3b",
+        "f69aca94-25ad-49c9-965e-ae1f35f1cf1a",
+        "2716d01d-88df-436f-8610-b42c14765648",
+        "50c533ee-d5fd-498e-9a08-a691694f2cf7",
+        "e8d032e6-b6f1-4626-b7ef-5cf8104a1fd1",
+        "539a16c0-6245-4aab-8190-47bb8c524eec",
+        "4ef0f768-33e2-4a67-8150-f464b450f439",
+        "2f126527-0906-4741-b857-9d7aeffcb506"
+    ],
+    "filterType": "GMSound",
+    "folderName": "goodblues",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

@@ -25,6 +25,16 @@ else if (guitarlevel == 1){
 	
 }
 
+else if (guitarlevel == 2){
+	
+	
+	var sound = gb_sounds[gbluesNote];
+	audio_play_sound(sound, 1, false);
+	gbluesNote ++;
+	if(gbluesNote > 19) gbluesNote = 0;
+	
+}
+
 
 //Increase cash
 obj_dollar.dollars += level_values[guitarlevel];

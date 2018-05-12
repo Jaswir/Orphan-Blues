@@ -10,7 +10,7 @@
         "09c20f63-8d19-4992-b7a4-6955286c46cb"
     ],
     "filterType": "GMSound",
-    "folderName": "blues",
+    "folderName": "barblues",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
