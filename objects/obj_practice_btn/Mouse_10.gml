@@ -8,3 +8,6 @@ if(obj_guitar.guitarlevel == 0){
 else if(obj_guitar.guitarlevel == 1){
 	obj_details_display.text = "Get 25$ per click";
 }
+else if(obj_guitar.guitarlevel == 2){
+	obj_details_display.text = "Under construction";
+}

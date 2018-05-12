@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "3cff63d9-4aa7-4b08-938a-eab72e7e48f2",
+            "Value": {
+                "id": "b9bdb0be-5029-4559-82ca-fcba66ceae47",
+                "resourcePath": "sounds\\snd_drums\\snd_drums.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "3fa64a2f-7712-4b13-b2ed-20af61b6df22",
             "Value": {
                 "id": "dde64d10-8511-4bb9-9699-0fca5594def9",
@@ -267,6 +275,14 @@
             "Value": {
                 "id": "77d777cc-453d-4df1-acf1-3819f1e8a209",
                 "resourcePath": "sprites\\spr_plan\\spr_plan.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "48ea4cdd-865f-4f92-8bff-0b705c2058e5",
+            "Value": {
+                "id": "cc36aa4a-c9ee-4c02-96ab-f2d0a087216f",
+                "resourcePath": "sprites\\spr_drums\\spr_drums.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -439,6 +455,14 @@
             }
         },
         {
+            "Key": "7f5b2250-c91a-40b2-91b1-5d0a9be1a2ff",
+            "Value": {
+                "id": "76eb3239-0582-4343-a3ef-92ee8a35a879",
+                "resourcePath": "views\\7f5b2250-c91a-40b2-91b1-5d0a9be1a2ff.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "80b3789e-b916-4b80-840b-0bf727adffc2",
             "Value": {
                 "id": "9706bceb-390c-4c61-869c-33005728dfdd",
@@ -559,6 +583,14 @@
             }
         },
         {
+            "Key": "bd104a5d-4757-42b6-924a-69674a4367de",
+            "Value": {
+                "id": "7d186b73-90e5-408e-be48-259577bfc846",
+                "resourcePath": "objects\\obj_drums_btn\\obj_drums_btn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "be1d3708-9369-4b87-aa26-0d9a4658e94c",
             "Value": {
                 "id": "5b1116ac-27df-4e89-bb9a-585b03e6ea83",
@@ -652,6 +684,14 @@
                 "id": "5c14c15b-8afe-43bc-b4da-5a0989c283c1",
                 "resourcePath": "views\\e331c68b-84c1-473d-a470-c32daf8d5cba.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e351d3b0-de32-4473-ba1a-4e087a94472f",
+            "Value": {
+                "id": "a532c667-ed36-4e37-8b8d-3375b426cf22",
+                "resourcePath": "objects\\obj_drums\\obj_drums.yy",
+                "resourceType": "GMObject"
             }
         },
         {

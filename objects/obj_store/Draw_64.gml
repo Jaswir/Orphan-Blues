@@ -5,5 +5,5 @@ draw_set_colour(c_white);
 draw_set_font(fnt_game);
 draw_set_halign(fa_center);
 draw_set_valign(fa_middle);
-draw_text(80, 40, "Store");
+draw_text(80, 20, "Store");
 
