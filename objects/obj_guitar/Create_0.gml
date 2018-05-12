@@ -4,11 +4,14 @@
 //Hovering variables
 scaleFactor = 1.2;
 oldScale = image_xscale;
-targetScale = scaleFactor * oldScale;
-scalingDuration = 0.3 * room_speed;
+oldScaleStored = oldScale;
+targetScale = scaleFactor * image_xscale;
+targetScaleStored = targetScale;
+scalingDuration = 0.2 * room_speed;
 
 t = 1;
 tDelta = 1 / scalingDuration;
+
 
 
 randomize();

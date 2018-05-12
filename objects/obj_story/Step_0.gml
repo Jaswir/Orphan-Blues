@@ -19,3 +19,8 @@ if(mouse_check_button_pressed(mb_left) && talked){
 	alarm[0] = talkslow;
 
 }
+
+if(keyboard_check_pressed(vk_right)){
+	audio_pause_sound(snd_typewriter);
+	room_goto_next();
+}

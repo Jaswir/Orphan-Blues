@@ -1,6 +1,11 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+oldScale = targetScale;
+targetScale = oldScaleStored;
+
+t = 1 - t;
+
 
 if(guitarlevel == 0){
 	
@@ -25,6 +30,7 @@ else if (guitarlevel == 1){
 obj_dollar.dollars += level_values[guitarlevel];
 
 
+//Notes
 if(guitarlevel >= 1){
 	var note = instance_create_layer(x, y, "Notes", obj_note01);
 	with(note){

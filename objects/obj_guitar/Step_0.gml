@@ -6,8 +6,9 @@
 if(t < 1){	
 	newScale = lerp(oldScale, targetScale, t);
 	image_xscale = newScale;
-	image_yscale = image_xscale;
+	image_yscale = newScale;
 	t += tDelta;
 	exit;
 }
+
 
