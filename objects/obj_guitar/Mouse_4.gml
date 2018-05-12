@@ -28,6 +28,7 @@ else if (guitarlevel == 1){
 
 //Increase cash
 obj_dollar.dollars += level_values[guitarlevel];
+obj_hat.alarm[0] = 1;
 
 
 //Notes
