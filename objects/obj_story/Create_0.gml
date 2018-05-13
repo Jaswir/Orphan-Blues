@@ -16,7 +16,7 @@ lines[8] = "As a street musician!";
 
 msg = lines[0];
 msg_new = "";
-talkslow = 3;
+talkslow = 1;
 alarm[0] = talkslow;
 j = 0;
 talked = false;

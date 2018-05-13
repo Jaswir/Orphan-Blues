@@ -12,8 +12,3 @@ if(t < 1){
 }
 
 
-if(keyboard_check_pressed(vk_space)){
-	
-	obj_dollar.dollars += 5000;
-	
-}

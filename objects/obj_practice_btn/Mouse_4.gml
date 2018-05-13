@@ -15,6 +15,6 @@ else if(obj_guitar.guitarlevel == 1){
 	if(obj_dollar.dollars >= 1000){
 		obj_dollar.dollars -= 1000;
 		obj_guitar.guitarlevel++;
-		value = 20000;		
+		value = 10000;		
 	}
 }

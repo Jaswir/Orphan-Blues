@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "3fe68fa6-da91-477a-be86-2cbc81d48953",
+            "Value": {
+                "id": "9d6ae086-bf3d-45d5-83f5-61e0fe1f72fe",
+                "resourcePath": "objects\\obj_harmonica_btn\\obj_harmonica_btn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "47582543-a43c-4495-b063-5404dc73edf3",
             "Value": {
                 "id": "77d777cc-453d-4df1-acf1-3819f1e8a209",
@@ -439,6 +447,22 @@
             }
         },
         {
+            "Key": "703e80cb-be72-4b82-9cde-901316c57e0a",
+            "Value": {
+                "id": "65d59338-aecf-4148-bb60-f6232ba2c6c6",
+                "resourcePath": "views\\703e80cb-be72-4b82-9cde-901316c57e0a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "703f280a-34e3-4026-bad2-c55e985598b4",
+            "Value": {
+                "id": "28f4a785-51eb-4c4b-887b-af6f701644ca",
+                "resourcePath": "sounds\\snd_harmonica\\snd_harmonica.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "71164b30-813e-4b8c-91c3-febe6512743e",
@@ -532,6 +556,14 @@
                 "id": "b534b6d2-73a7-4546-9d51-3ba378d6bdd9",
                 "resourcePath": "views\\9f39f8d8-2711-4205-8a72-9b210cdc9083.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a15f7488-031f-4cea-b672-dc037dbf2177",
+            "Value": {
+                "id": "ecd8c4ab-047a-43da-8cc8-8a2ff71c4d45",
+                "resourcePath": "objects\\obj_click_button\\obj_click_button.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -647,6 +679,14 @@
             }
         },
         {
+            "Key": "d0e24013-faf9-482b-867b-fb694b4c5bfc",
+            "Value": {
+                "id": "1f173567-a3e9-4c51-865c-5599215d2b42",
+                "resourcePath": "sprites\\spr_harmonica\\spr_harmonica.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d509681f-e564-43da-b18e-166607ba159f",
             "Value": {
                 "id": "5041394e-2050-4dbb-a229-4fa0a7c10828",
@@ -660,6 +700,14 @@
                 "id": "e1ea4af0-1087-423e-a04e-b3a2e79db5b1",
                 "resourcePath": "views\\d905ec0a-65d2-4675-bd30-99b5fc5879b0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "db86b9da-4cf2-4672-ae01-6d3f04394a36",
+            "Value": {
+                "id": "dce2b326-4998-4b21-aeca-19982a948aee",
+                "resourcePath": "objects\\obj_harmonica\\obj_harmonica.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -692,6 +740,14 @@
                 "id": "a532c667-ed36-4e37-8b8d-3375b426cf22",
                 "resourcePath": "objects\\obj_drums\\obj_drums.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e5233a37-dc9d-4ae1-be23-0ab236349dcc",
+            "Value": {
+                "id": "c9ad2133-89ff-4006-880e-c8b73bb2e18e",
+                "resourcePath": "views\\e5233a37-dc9d-4ae1-be23-0ab236349dcc.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
