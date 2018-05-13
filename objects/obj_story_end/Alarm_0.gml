@@ -9,5 +9,14 @@ if (msg != msg_new)
 else{
 	talked = true;
 	audio_pause_sound(snd_typewriter);
+	
+	
 	obj_loading_dots.visible = true;
+	
+	if(counter == array_length_1d(lines) - 1){
+			
+		obj_loading_dots.visible = false;
+		talked = false;
+		
+	}
 }

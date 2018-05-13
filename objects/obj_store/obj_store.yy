@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "obj_store",
     "eventList": [
-        {
-            "id": "ae497f1b-c4a9-4295-ab54-e287a45486ac",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 64,
-            "eventtype": 8,
-            "m_owner": "247886c6-4d51-44f1-9047-117720de6205"
-        }
+        
     ],
     "maskSpriteId": "ecc7af34-caec-490b-81e4-4f33dfddcfb5",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "83866fc5-0f70-48a9-9c9d-def200ee7da8",
     "visible": true
 }

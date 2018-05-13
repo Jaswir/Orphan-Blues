@@ -407,6 +407,14 @@
             }
         },
         {
+            "Key": "5c2a9bb6-4c45-419d-9506-bc94f60a7db4",
+            "Value": {
+                "id": "e56e7bec-39a1-4304-a6af-0e7ec4bdfd0a",
+                "resourcePath": "sprites\\spr_guitar1\\spr_guitar1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "629208ad-c1bc-4fb3-90f8-4b7632cc010e",
             "Value": {
                 "id": "8ece8eb2-4494-422d-87f0-2e03990112e6",
@@ -508,6 +516,14 @@
                 "id": "cb6dbcac-877a-4765-a9f6-697dbffda60f",
                 "resourcePath": "views\\82130c87-6e5d-454a-92bc-4a5216d2edf6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "83866fc5-0f70-48a9-9c9d-def200ee7da8",
+            "Value": {
+                "id": "ed2ba8fa-6cb2-412c-942f-ada5db153e0e",
+                "resourcePath": "sprites\\spr_shop\\spr_shop.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

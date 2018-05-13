@@ -3,13 +3,8 @@
 
 
 if(mouse_check_button_pressed(mb_left) && talked){
-
-	counter++;
-	if(counter >= array_length_1d(lines)){
-		room_goto_next();	
-		exit;
-	}
 	
+	counter++;
 	obj_loading_dots.visible = false;
 	audio_resume_sound(snd_typewriter);
 	talked = false;
@@ -17,6 +12,6 @@ if(mouse_check_button_pressed(mb_left) && talked){
 	msg_new = "";
 	j = 0;
 	alarm[0] = talkslow;
-
+	
 }
 
