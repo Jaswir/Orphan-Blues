@@ -1,6 +1,6 @@
 
 {
-    "name": "story",
+    "name": "story_begin",
     "id": "910d1ae6-4ccf-4ac6-81b2-e937e6bf850c",
     "creationCodeFile": "",
     "inheritCode": false,
