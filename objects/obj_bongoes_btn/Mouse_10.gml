@@ -3,6 +3,6 @@
 
 if(!visible) exit;
 
-image_alpha = 0.3;
+sprite_index = spr_button2;
 obj_details_display.text = "Auto clicker beat!, 30$ per second";
-if(obj_bongoes_btn.bought) obj_details_display.text = "SOLD OUT!";
+if(bought) obj_details_display.text = "SOLD OUT!";

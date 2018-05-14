@@ -3,8 +3,8 @@
 
 if(!visible) exit;
 
-image_alpha = 0.3;
+sprite_index = spr_button2;
 obj_details_display.text = "Harmonica solo!, get 1000$ per solo";
-if(obj_harmonica_btn.bought) obj_details_display.text = "SOLD OUT!";
+if(bought) obj_details_display.text = "SOLD OUT!";
 
 

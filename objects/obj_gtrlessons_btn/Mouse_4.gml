@@ -12,9 +12,10 @@ if(guitarlevel == 0){
 		audio_play_sound(snd_buy, 1, false);
 		guitarlevel++;
 		ini_write_real("OrphanBlues", "guitarlevel", guitarlevel); 
-		obj_gtrlessons_btn.value = 1000;	
-		image_blend = c_blue;
+		value = 1000;	
+		obj_gtrlessonbookUI.image_blend = c_blue;
 	}
+	else audio_play_sound(snd_not_enough_money, 1, false);
 }
 
 else if(guitarlevel == 1){
@@ -24,9 +25,10 @@ else if(guitarlevel == 1){
 		audio_play_sound(snd_buy, 1, false);
 		guitarlevel++;
 		ini_write_real("OrphanBlues", "guitarlevel", guitarlevel); 
-		obj_gtrlessons_btn.value = 10000;	
-		image_blend = c_purple;
+		value = 10000;	
+		obj_gtrlessonbookUI.image_blend = c_purple;
 	}
+	else audio_play_sound(snd_not_enough_money, 1, false);
 }
 
 ini_close();

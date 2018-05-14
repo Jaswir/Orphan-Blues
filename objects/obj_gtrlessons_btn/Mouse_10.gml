@@ -3,7 +3,7 @@
 
 if(!visible) exit;
 
-image_alpha = 0.3;
+sprite_index = spr_button2;
 
 if(guitarlevel == 0){
 	obj_details_display.text = "Get 5$ per click";

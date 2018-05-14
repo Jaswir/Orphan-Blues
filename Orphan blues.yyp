@@ -511,6 +511,14 @@
             }
         },
         {
+            "Key": "7138d6c0-f6f5-4323-b808-55eac9268be3",
+            "Value": {
+                "id": "2aa37cf8-e318-48dc-baea-ceb99d88215e",
+                "resourcePath": "sounds\\snd_not_enough_money\\snd_not_enough_money.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "71164b30-813e-4b8c-91c3-febe6512743e",
