@@ -13,4 +13,5 @@ guitarlevel = 0;
 obj_dollar.dollars = 0;
 obj_bongoes.visible = false;
 obj_harmonica.visible = false;
+obj_hat.alarm[1] = 1;
 audio_stop_all();
