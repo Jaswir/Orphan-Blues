@@ -1,52 +1,52 @@
 {
-    "id": "6605ebff-7c47-4725-a0e1-35ef62852d6c",
+    "id": "73bc44d9-e288-4c3a-8914-707ea603c9ec",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_guitar_lessonbook",
+    "name": "spr_shop_leave",
     "For3D": false,
     "HTile": false,
     "VTile": false,
-    "bbox_bottom": 104,
-    "bbox_left": 0,
-    "bbox_right": 89,
-    "bbox_top": 0,
-    "bboxmode": 0,
+    "bbox_bottom": 96,
+    "bbox_left": 55,
+    "bbox_right": 112,
+    "bbox_top": 18,
+    "bboxmode": 2,
     "colkind": 1,
     "coltolerance": 0,
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "3dba81bd-97b8-4941-91dc-5036d7440afe",
+            "id": "b40ebdf5-845b-46fd-9ca0-54fdaca70964",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
-            "SpriteId": "6605ebff-7c47-4725-a0e1-35ef62852d6c",
+            "SpriteId": "73bc44d9-e288-4c3a-8914-707ea603c9ec",
             "compositeImage": {
-                "id": "5cf19deb-2d83-4631-baa3-607ca2366b14",
+                "id": "3554a40a-eae1-4ba9-962c-6e70f8e99868",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "3dba81bd-97b8-4941-91dc-5036d7440afe",
+                "FrameId": "b40ebdf5-845b-46fd-9ca0-54fdaca70964",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "86f30ac5-2099-4577-99ee-6164864b3b49",
+                    "id": "6dcec845-9b44-464c-b103-63bc2bfca31d",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "3dba81bd-97b8-4941-91dc-5036d7440afe",
-                    "LayerId": "0d6b84b2-fde2-4d54-bdce-ee983fcf878f"
+                    "FrameId": "b40ebdf5-845b-46fd-9ca0-54fdaca70964",
+                    "LayerId": "d67ce947-21fe-4d1f-8125-57543dbc3c07"
                 }
             ]
         }
     ],
     "gridX": 0,
     "gridY": 0,
-    "height": 105,
+    "height": 110,
     "layers": [
         {
-            "id": "0d6b84b2-fde2-4d54-bdce-ee983fcf878f",
+            "id": "d67ce947-21fe-4d1f-8125-57543dbc3c07",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
-            "SpriteId": "6605ebff-7c47-4725-a0e1-35ef62852d6c",
+            "SpriteId": "73bc44d9-e288-4c3a-8914-707ea603c9ec",
             "blendMode": 0,
             "isLocked": false,
             "name": "default",
@@ -54,7 +54,7 @@
             "visible": true
         }
     ],
-    "origin": 4,
+    "origin": 9,
     "originLocked": false,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
@@ -64,7 +64,7 @@
     "swfPrecision": 2.525,
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
-    "width": 90,
-    "xorig": 45,
-    "yorig": 52
+    "width": 170,
+    "xorig": 82,
+    "yorig": 61
 }
