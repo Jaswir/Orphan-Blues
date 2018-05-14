@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "03f87453-d147-4e72-b82d-49123cbc3bb6",
+            "Value": {
+                "id": "697b91fa-e4c9-47f5-b680-b224adce52d0",
+                "resourcePath": "objects\\obj_harmonicaUI\\obj_harmonicaUI.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "04bb8ad2-6544-4329-b414-ca69e6e4b1f9",
             "Value": {
                 "id": "0a087ad9-822c-446f-990f-beb5154ec2df",
@@ -188,6 +196,14 @@
                 "id": "2b94bcdd-0291-40fb-bce6-5247c1a5354d",
                 "resourcePath": "fonts\\fnt_display\\fnt_display.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "21d07347-2494-4777-b236-fedff6496e6f",
+            "Value": {
+                "id": "03a9dade-ca16-48cc-8f88-b95d66a7f193",
+                "resourcePath": "sounds\\snd_buy\\snd_buy.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -364,6 +380,14 @@
                 "id": "2ff65abb-a12d-4ae7-a3eb-2ae01268b2d5",
                 "resourcePath": "sounds\\snd_gb09\\snd_gb09.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "577bd5d2-f909-43c6-bc89-cb558f740d1b",
+            "Value": {
+                "id": "1c02f8bb-9b23-4897-acf0-67815e11e645",
+                "resourcePath": "objects\\obj_bongoesUI\\obj_bongoesUI.yy",
+                "resourceType": "GMObject"
             }
         },
         {

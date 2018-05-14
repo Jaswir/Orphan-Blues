@@ -8,3 +8,8 @@ rechargeTime = room_speed * ( 10 + audio_sound_length(snd_harmonica));
 pouringdelay = 3;
 pouring = false;
 pouringAmount = 5;
+
+ini_open("Save.sav");
+visible = ini_read_real("OrphanBlues", "harmonica_bought", 0);
+ini_close();
+

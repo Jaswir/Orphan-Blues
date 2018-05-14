@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+if(!visible) exit;
+
 if(recharging) exit;
 
 audio_play_sound(snd_harmonica, 1, false);

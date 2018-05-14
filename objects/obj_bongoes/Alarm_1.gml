@@ -20,4 +20,6 @@ with(note){
 }
 
 obj_dollar.dollars += autoamount;
-alarm[1] = autotime;
+
+if(visible) alarm[1] = autotime;
+

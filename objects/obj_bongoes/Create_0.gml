@@ -4,6 +4,6 @@ autoamount = 10;
 
 
 ini_open("Save.sav");
-if(ini_read_real("OrphanBlues", "bongoes_bought", 0)) alarm[0] = 1;
+alarm[0] = ini_read_real("OrphanBlues", "bongoes_bought", 0);
 ini_close();
 
