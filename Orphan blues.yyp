@@ -298,7 +298,7 @@
             "Key": "48ea4cdd-865f-4f92-8bff-0b705c2058e5",
             "Value": {
                 "id": "cc36aa4a-c9ee-4c02-96ab-f2d0a087216f",
-                "resourcePath": "sprites\\spr_drums\\spr_drums.yy",
+                "resourcePath": "sprites\\spr_bongoes\\spr_bongoes.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -420,6 +420,14 @@
                 "id": "66ad5bb1-1e84-45ea-8aef-1f0c64047e63",
                 "resourcePath": "sounds\\snd_gb02\\snd_gb02.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "6437a917-9e88-4e87-9e73-ab09f311aa1a",
+            "Value": {
+                "id": "69abcb94-5e54-4089-8fb2-8156b7aeea5d",
+                "resourcePath": "objects\\obj_note02\\obj_note02.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -740,6 +748,14 @@
                 "id": "3ed1d1a5-6ca6-4c40-b76a-4927cfccfcb4",
                 "resourcePath": "objects\\obj_dollar\\obj_dollar.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dcbeb685-9314-4901-8bba-fce76eecb53a",
+            "Value": {
+                "id": "aef20199-b020-4938-a573-1934b8841964",
+                "resourcePath": "sprites\\spr_note2\\spr_note2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

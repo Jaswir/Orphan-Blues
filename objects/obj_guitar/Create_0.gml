@@ -2,6 +2,11 @@
 // You can write your code in this editor
 
 randomize();
+image_speed = 0;
+
+note0s = [];
+note0s[0] = obj_note0;
+note0s[1] = obj_note02;
 
 //Hovering variables
 scaleFactor = 1.2;

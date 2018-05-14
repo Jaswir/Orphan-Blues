@@ -39,9 +39,11 @@ else if (guitarlevel == 2){
 //Increase cash
 obj_dollar.dollars += level_values[guitarlevel];
 obj_hat.alarm[0] = 1;
-
+image_speed = 4;
+alarm[1] = 15;
 
 //Notes
+var note0 = note0s[irandom_range(0, 1)];
 if(guitarlevel >= 1){
 	var note = instance_create_layer(x, y, "Notes", obj_note01);
 	with(note){
@@ -53,7 +55,7 @@ if(guitarlevel >= 1){
 }
 if(guitarlevel >= 0){
 	//Spawn note and float in random direction
-	var note = instance_create_layer(x, y, "Notes", obj_note0);
+	var note = instance_create_layer(x, y, "Notes", note0);
 	with(note){
 		speed = 5;
 		direction = random_range(22.5, 157.5);
