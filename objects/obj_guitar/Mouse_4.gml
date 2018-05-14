@@ -47,7 +47,7 @@ if(guitarlevel >= 1){
 	with(note){
 		speed = 5;
 		direction = random_range(22.5, 157.5);
-		image_xscale = 0.02;
+		image_xscale = 0.5;
 		image_yscale = image_xscale;
 	}
 }
@@ -57,7 +57,7 @@ if(guitarlevel >= 0){
 	with(note){
 		speed = 5;
 		direction = random_range(22.5, 157.5);
-		image_xscale = 0.03;
+		image_xscale = 0.8;
 		image_yscale = image_xscale;
 	}
 }

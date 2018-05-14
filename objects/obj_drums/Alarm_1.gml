@@ -6,7 +6,7 @@ var note = instance_create_layer(x, y, "Notes", obj_note01);
 with(note){
 	speed = 3;
 	direction = random_range(22.5, 157.5);
-	image_xscale = 0.05;
+	image_xscale = 0.5;
 	image_yscale = image_xscale;
 }
 
@@ -15,7 +15,7 @@ var note = instance_create_layer(x, y, "Notes", obj_note0);
 with(note){
 	speed = 3;
 	direction = random_range(22.5, 157.5);
-	image_xscale = 0.01;
+	image_xscale = 0.8;
 	image_yscale = image_xscale;
 }
 
