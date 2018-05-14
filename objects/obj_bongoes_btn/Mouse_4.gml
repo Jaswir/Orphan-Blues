@@ -8,7 +8,7 @@ if(!bought){
 		bought = true;
 		
 		ini_open("Save.sav");
-		ini_write_real("OrphanBlues", "drums_bought", bought);
+		ini_write_real("OrphanBlues", "bongoes_bought", bought);
 		ini_close();
 		
 		value = "SOLD"
