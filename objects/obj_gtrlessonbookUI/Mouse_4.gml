@@ -11,7 +11,8 @@ if(guitarlevel == 0){
 		obj_dollar.dollars -= 50;
 		guitarlevel++;
 		ini_write_real("OrphanBlues", "guitarlevel", guitarlevel); 
-		obj_gtrlessons_btn.value = 1000;		
+		obj_gtrlessons_btn.value = 1000;	
+		image_blend = c_blue;
 	}
 }
 
@@ -21,7 +22,8 @@ else if(guitarlevel == 1){
 		obj_dollar.dollars -= 1000;
 		guitarlevel++;
 		ini_write_real("OrphanBlues", "guitarlevel", guitarlevel); 
-		obj_gtrlessons_btn.value = 10000;		
+		obj_gtrlessons_btn.value = 10000;	
+		image_blend = c_purple;
 	}
 }
 

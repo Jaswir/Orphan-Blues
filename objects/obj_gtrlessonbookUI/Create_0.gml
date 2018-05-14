@@ -8,5 +8,5 @@ guitarlevel = ini_read_real("OrphanBlues", "guitarlevel", 0);
 ini_close();
 
 
-if(guitarlevel == 1) background_color = c_blue;
-else if(guitarlevel == 2) background_color = c_purple;
+if(guitarlevel == 1) image_blend = c_blue;
+else if(guitarlevel == 2) image_blend = c_purple;
