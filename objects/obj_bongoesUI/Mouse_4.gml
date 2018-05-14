@@ -18,6 +18,7 @@ with(obj_bongoes_btn){
 			ini_close();
 		
 			value = "SOLD"
+			obj_details_display.text = "";
 		}
 	}
 }

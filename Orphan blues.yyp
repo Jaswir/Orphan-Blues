@@ -455,6 +455,14 @@
             }
         },
         {
+            "Key": "6605ebff-7c47-4725-a0e1-35ef62852d6c",
+            "Value": {
+                "id": "346ef2a5-3da6-4f3f-9e5f-17dc309f2a4f",
+                "resourcePath": "sprites\\spr_guitar_lessonbook\\spr_guitar_lessonbook.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "66a78fe2-2e5a-4298-a333-15ee2d4dccb2",
             "Value": {
                 "id": "b83eb1da-8f70-44f0-af27-0ef2ad27e7ec",

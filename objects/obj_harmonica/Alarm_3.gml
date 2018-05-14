@@ -23,4 +23,4 @@ repeat(pouringAmount){
 		image_yscale = image_xscale;
 	}
 }
-if(pouring) alarm[3] = pouringdelay;
+if(pouring && visible) alarm[3] = pouringdelay;
