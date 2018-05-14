@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "228acf20-4b2f-4ef5-8acd-36f287228a72",
+            "Value": {
+                "id": "72da3fb1-1a9c-4cf8-8535-82d60e680d8e",
+                "resourcePath": "sounds\\snd_door\\snd_door.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "247886c6-4d51-44f1-9047-117720de6205",
             "Value": {
                 "id": "2d66075c-104a-430f-b98e-034c3312c68f",

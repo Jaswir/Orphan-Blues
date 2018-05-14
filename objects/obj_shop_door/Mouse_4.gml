@@ -13,4 +13,6 @@ ini_write_real("OrphanBlues", "harmonica_bought", obj_harmonica.visible);
 
 ini_close();
 
+audio_play_sound(snd_door, 1, false);
+
 room_goto(shop);

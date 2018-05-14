@@ -9,5 +9,6 @@ ini_write_real("OrphanBlues", "dollars", obj_dollar.dollars);
 
 ini_close();
 
+audio_play_sound(snd_door, 1, false);
 
 room_goto(street);
