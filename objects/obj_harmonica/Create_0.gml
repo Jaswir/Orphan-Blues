@@ -10,6 +10,6 @@ pouring = false;
 pouringAmount = 5;
 
 ini_open("Save.sav");
-visible = ini_read_real("OrphanBlues", "harmonica_bought", 0);
+alarm[0] = ini_read_real("OrphanBlues", "harmonica_bought", 0);
 ini_close();
 

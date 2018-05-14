@@ -10,6 +10,7 @@ image_speed = 5;
 alarm[2] = room_speed * audio_sound_length(snd_harmonica);
 
 
+obj_staging.visible = false;
 recharging = true;
 pouring = true;
 alarm[3] = pouringdelay;

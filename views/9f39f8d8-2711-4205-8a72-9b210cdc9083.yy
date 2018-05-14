@@ -9,7 +9,8 @@
         "db86b9da-4cf2-4672-ae01-6d3f04394a36",
         "514030b3-5d1f-4ca7-962f-712a0f88032d",
         "ea53a2db-c5ac-41c6-b830-a19bcd1007ac",
-        "247886c6-4d51-44f1-9047-117720de6205"
+        "247886c6-4d51-44f1-9047-117720de6205",
+        "83b6423d-b47f-4467-b4db-814ff2fbc1e0"
     ],
     "filterType": "GMObject",
     "folderName": "street",
