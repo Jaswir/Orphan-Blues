@@ -3,5 +3,6 @@
 
 
 visible = true;
-audio_play_sound(snd_drums, 1, true);
+if(!audio_is_playing(snd_bongoes)) audio_play_sound(snd_bongoes, 1, true);
 alarm[1] = autotime;
+

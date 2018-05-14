@@ -5,8 +5,12 @@ if(!bought){
 	
 	if(obj_dollar.dollars >= 500){
 		obj_dollar.dollars -= 500;
-		obj_drums.alarm[0] = 1;	
 		bought = true;
+		
+		ini_open("Save.sav");
+		ini_write_real("OrphanBlues", "drums_bought", bought);
+		ini_close();
+		
 		value = "SOLD"
 	}
 }

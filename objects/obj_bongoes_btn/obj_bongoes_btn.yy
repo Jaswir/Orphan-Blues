@@ -2,7 +2,7 @@
     "id": "bd104a5d-4757-42b6-924a-69674a4367de",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_drums_btn",
+    "name": "obj_bongoes_btn",
     "eventList": [
         {
             "id": "f6df402f-9afc-4775-922d-5d3a8a285ead",

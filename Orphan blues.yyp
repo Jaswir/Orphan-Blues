@@ -258,7 +258,7 @@
             "Key": "3cff63d9-4aa7-4b08-938a-eab72e7e48f2",
             "Value": {
                 "id": "b9bdb0be-5029-4559-82ca-fcba66ceae47",
-                "resourcePath": "sounds\\snd_drums\\snd_drums.yy",
+                "resourcePath": "sounds\\snd_bongoes\\snd_bongoes.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -463,14 +463,6 @@
             }
         },
         {
-            "Key": "703e80cb-be72-4b82-9cde-901316c57e0a",
-            "Value": {
-                "id": "65d59338-aecf-4148-bb60-f6232ba2c6c6",
-                "resourcePath": "views\\703e80cb-be72-4b82-9cde-901316c57e0a.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "703f280a-34e3-4026-bad2-c55e985598b4",
             "Value": {
                 "id": "28f4a785-51eb-4c4b-887b-af6f701644ca",
@@ -583,14 +575,6 @@
             }
         },
         {
-            "Key": "a15f7488-031f-4cea-b672-dc037dbf2177",
-            "Value": {
-                "id": "ecd8c4ab-047a-43da-8cc8-8a2ff71c4d45",
-                "resourcePath": "objects\\obj_click_button\\obj_click_button.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "a342fa51-6f58-4c68-837a-0ed13176abe2",
             "Value": {
                 "id": "91d8aa2a-f8a9-4927-856f-a85d9404cbea",
@@ -650,7 +634,7 @@
             "Key": "bd104a5d-4757-42b6-924a-69674a4367de",
             "Value": {
                 "id": "7d186b73-90e5-408e-be48-259577bfc846",
-                "resourcePath": "objects\\obj_drums_btn\\obj_drums_btn.yy",
+                "resourcePath": "objects\\obj_bongoes_btn\\obj_bongoes_btn.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -786,7 +770,7 @@
             "Key": "e351d3b0-de32-4473-ba1a-4e087a94472f",
             "Value": {
                 "id": "a532c667-ed36-4e37-8b8d-3375b426cf22",
-                "resourcePath": "objects\\obj_drums\\obj_drums.yy",
+                "resourcePath": "objects\\obj_bongoes\\obj_bongoes.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -852,6 +836,14 @@
                 "id": "6724c77e-8e47-4485-bca9-61a05eff3015",
                 "resourcePath": "sounds\\snd_gb13\\snd_gb13.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "fef76ede-bad6-422b-8d56-f0123c5643b1",
+            "Value": {
+                "id": "94652958-55d4-4ead-845b-eedb01a3a85f",
+                "resourcePath": "objects\\obj_shop_exit\\obj_shop_exit.yy",
+                "resourceType": "GMObject"
             }
         },
         {

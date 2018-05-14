@@ -20,7 +20,10 @@ t = 1;
 tDelta = 1 / scalingDuration;
 
 
-guitarlevel = 0;
+ini_open("Save.sav");
+guitarlevel = ini_read_real("OrphanBlues", "guitarlevel", 0); 
+ini_close();
+
 level_values = [];
 level_values[0] = 1;
 level_values[1] = 5;
