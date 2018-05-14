@@ -1,6 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
-sprite_index = spr_button2;
+
+if(!visible) exit;
+
+image_alpha = 0.3;
 
 if(guitarlevel == 0){
 	obj_details_display.text = "Get 5$ per click";

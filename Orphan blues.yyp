@@ -82,7 +82,7 @@
             "Key": "0749bd7f-575d-49e0-9743-39de441de225",
             "Value": {
                 "id": "33459f9b-ee23-4c42-b9be-9c2653c14284",
-                "resourcePath": "objects\\obj_practice_btn\\obj_practice_btn.yy",
+                "resourcePath": "objects\\obj_gtrlessons_btn\\obj_gtrlessons_btn.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -611,6 +611,14 @@
             "Value": {
                 "id": "91d8aa2a-f8a9-4927-856f-a85d9404cbea",
                 "resourcePath": "objects\\obj_details_display\\obj_details_display.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a36f7e45-47ff-41ce-9e02-8c27d4f92406",
+            "Value": {
+                "id": "c3aa8919-2250-4fb0-8f72-131d045aea0d",
+                "resourcePath": "objects\\obj_gtrlessonbookUI\\obj_gtrlessonbookUI.yy",
                 "resourceType": "GMObject"
             }
         },

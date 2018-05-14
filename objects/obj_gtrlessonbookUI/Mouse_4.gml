@@ -1,9 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+if(!visible) exit;
+
 ini_open("Save.sav");
-
-
 
 if(guitarlevel == 0){
 	
@@ -11,7 +11,7 @@ if(guitarlevel == 0){
 		obj_dollar.dollars -= 50;
 		guitarlevel++;
 		ini_write_real("OrphanBlues", "guitarlevel", guitarlevel); 
-		value = 1000;		
+		obj_gtrlessons_btn.value = 1000;		
 	}
 }
 
@@ -21,7 +21,7 @@ else if(guitarlevel == 1){
 		obj_dollar.dollars -= 1000;
 		guitarlevel++;
 		ini_write_real("OrphanBlues", "guitarlevel", guitarlevel); 
-		value = 10000;		
+		obj_gtrlessons_btn.value = 10000;		
 	}
 }
 
