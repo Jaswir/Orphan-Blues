@@ -11,6 +11,3 @@ if(guitarlevel == 0){
 else if(guitarlevel == 1){
 	obj_details_display.text = "Get 25$ per click";
 }
-else if(guitarlevel == 2){
-	obj_details_display.text = "Get 100$ per click";
-}

@@ -8,4 +8,6 @@ draw_set_valign(fa_bottom);
 draw_text(x, y, "Harmonica");
 
 draw_set_valign(fa_top);
-draw_text(x, y, "$ " + string(value));
+
+if(bought) draw_text(x, y, "SOLD OUT");
+else draw_text(x, y, "$ " + string(value));

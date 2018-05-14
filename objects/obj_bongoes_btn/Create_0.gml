@@ -7,6 +7,5 @@ bought = ini_read_real("OrphanBlues", "bongoes_bought", 0);
 ini_close();
 
 value = 500;
-if(bought) 	value = "SOLD"
 
 

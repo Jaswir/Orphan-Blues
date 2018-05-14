@@ -5,6 +5,6 @@ bought = ini_read_real("OrphanBlues", "harmonica_bought", 0);
 ini_close();
 
 value = 5000;
-if(bought) 	value = "SOLD"
+
 
 

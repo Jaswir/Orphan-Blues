@@ -5,6 +5,8 @@
 var angleMin = 60;
 var angleMax = 120;
 repeat(pouringAmount){
+	
+	obj_dollar.dollars += 5;
 	var note = instance_create_layer(x, y, "Notes", obj_note01);
 	with(note){
 		speed = 5;

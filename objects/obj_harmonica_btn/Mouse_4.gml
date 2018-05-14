@@ -16,7 +16,6 @@ if(!bought){
 		ini_write_real("OrphanBlues", "harmonica_bought", bought);
 		ini_close();
 		
-		value = "SOLD";
 		obj_details_display.text = "";
 	}
 		

@@ -25,8 +25,7 @@ else if(guitarlevel == 1){
 		audio_play_sound(snd_buy, 1, false);
 		guitarlevel++;
 		ini_write_real("OrphanBlues", "guitarlevel", guitarlevel); 
-		value = 10000;	
-		obj_gtrlessonbookUI.image_blend = c_purple;
+		obj_gtrlessonbookUI.visible = false;
 	}
 	else audio_play_sound(snd_not_enough_money, 1, false);
 }

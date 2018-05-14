@@ -8,4 +8,6 @@ draw_set_valign(fa_bottom);
 draw_text(x, y, "Guitar Lessons");
 
 draw_set_valign(fa_top);
-draw_text(x, y, "$ " + string(value));
+
+if(guitarlevel == 2) draw_text(x, y, "SOLD OUT");
+else draw_text(x, y, "$ " + string(value));

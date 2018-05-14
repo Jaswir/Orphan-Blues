@@ -4,7 +4,7 @@
 if(!visible) exit;
 
 sprite_index = spr_button2;
-obj_details_display.text = "Harmonica solo!, get 1000$ per solo";
-if(bought) obj_details_display.text = "SOLD OUT!";
+obj_details_display.text = "Harmonica solo!, get 3100$ per solo";
+
 
 

@@ -18,7 +18,7 @@ if(keyboard_check_pressed(vk_space)){
 	
 }
 
-if(obj_dollar.dollars >= 10000){
+if(obj_dollar.dollars >= 15000){
 	
 	room_goto(story_end);
 	

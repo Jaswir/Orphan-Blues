@@ -9,4 +9,4 @@ ini_close();
 
 
 if(guitarlevel == 1) image_blend = c_blue;
-else if(guitarlevel == 2) image_blend = c_purple;
+else if(guitarlevel == 2) visible = false;
