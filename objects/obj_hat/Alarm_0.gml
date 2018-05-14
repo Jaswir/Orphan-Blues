@@ -10,29 +10,29 @@ else if(obj_dollar.dollars == 50) image_index = 6;
 else if(obj_dollar.dollars >= 125 && !hat0spawned) {	
 	
 	hat0spawned = true;
-	with(instance_create_layer(502, 436, "Instances", obj_full_hat)){
+	with(instance_create_layer(489, 416, "Instances", obj_full_hat)){
 		
-		image_xscale = 0.8;
-		image_yscale = 0.7;	
+		image_xscale = 0.9;
+		image_yscale = 0.9;	
 	}	
 }
 
 else if(obj_dollar.dollars >= 500 && !hat1spawned) {	
 	
 	hat1spawned = true;
-	with(instance_create_layer(414, 548, "Instances", obj_full_hat)){
+	with(instance_create_layer(389, 476, "Instances", obj_full_hat)){
 		
-		image_xscale = 0.8;
-		image_yscale = 0.7;	
+		image_xscale = 0.9;
+		image_yscale = 0.9;	
 	}	
 }
 
 else if(obj_dollar.dollars >= 1000 && !hat2spawned) {	
 	
 	hat2spawned = true;
-	with(instance_create_layer(253, 499, "Instances", obj_full_hat)){
+	with(instance_create_layer(285, 444, "Instances", obj_full_hat)){
 		
-		image_xscale = 0.8;
-		image_yscale = 0.7;	
+		image_xscale = 0.9;
+		image_yscale = 0.9;	
 	}	
 }
